@@ -1,5 +1,6 @@
 ## Content Description
 The execution of the server follows four steps:
+
 1.	Create a socket for the server
 2.	Bind that socket to an address
 3.	Listen for connections and accept them
